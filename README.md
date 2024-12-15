@@ -1,5 +1,4 @@
 # 🍽️ Food Website
-![Food Website](https://github.com/Anilnayak126/Food-Website/blob/main/foodApp.jpg)
 
 A responsive and modern food website built using React and Tailwind CSS. This website provides users with a sleek interface to explore various food items, recipes, and more.
 
